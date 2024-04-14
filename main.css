@@ -14,7 +14,7 @@ body{
     background: url('img.jpg') no-repeat;
     background-size: cover;
     background-position: center;
-    
+
 }
 
 .main{
@@ -120,4 +120,3 @@ body{
     text-decoration: underline;
     transform: scale(1.02);
 }
-
